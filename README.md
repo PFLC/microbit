@@ -1,3 +1,7 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6a9a7a4f-3be1-4ab9-9345-329e433bef65" />
+
+
+
 # 💡 Prácticas con Micro:bit y AI Create  
 ### Aprendizaje práctico de Inteligencia Artificial, sensores y programación física
 
